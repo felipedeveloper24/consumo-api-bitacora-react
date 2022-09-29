@@ -1,0 +1,43 @@
+
+.tareas{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    flex-direction: column;
+    align-items: center;
+}
+.tarea{
+    width: 65%;
+    border: 1px solid gainsboro;
+    background-color: #334155;
+    padding: 15px;
+    border-radius: 14px;
+    margin-bottom: 15px;
+}
+.tarea > h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 10px;
+    padding: 10px;
+}
+.tarea > p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 10px;
+    padding: 10px ;
+}
+.tarea > cite{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+img{
+
+    border-radius: 100px;
+}

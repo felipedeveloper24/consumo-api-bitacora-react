@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main-container{
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    background-color: #0f172a;
+}
